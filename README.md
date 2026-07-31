@@ -26,7 +26,7 @@ Clone the repo and run the script:
 
 ```bash
 git clone https://github.com/your-username/el-lemonio.git
-cd el-lemonio
+cd el-lemonio-s-shop
 python shop.py
 ```
 
