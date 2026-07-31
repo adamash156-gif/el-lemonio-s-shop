@@ -25,7 +25,7 @@ No `pip install` needed — everything runs off the standard library.
 Clone the repo and run the script:
 
 ```bash
-git clone https://github.com/your-username/el-lemonio.git
+git clone https://github.com/your-username/el-lemonio-s-shop.git
 cd el-lemonio-s-shop
 python shop.py
 ```
